@@ -1,0 +1,5 @@
+
+create 1 2 1 2 one two three four five Six
+insert 12 34.467 45.34546 G RoHan Champ
+insert 34 325.4316 325436.43675 K Kunj Pat
+insert 2345 2345.3256 23456.32456 R RoHan Champaneri
